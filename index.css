@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+#countdown{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20%;
+    color: white;
+}
+
+.saffron{
+    color: orangered;
+}
+
+.white{
+    color: white;
+}
+
+.green{
+    color: green;
+}
